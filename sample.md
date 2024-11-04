@@ -60,4 +60,3 @@ A curated list of highly recommended books across various genres and topics.
    - *The autobiography of South Africa's iconic leader.*
 
 [🔝 Go to Top](#-best-books-to-read)
----
