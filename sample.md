@@ -1,7 +1,5 @@
 # 📚 Best Books to Read
 
-A curated list of highly recommended books across various genres and topics.
-
 ## Table of Contents
 - [Fiction](#fiction)
 - [Non-Fiction](#non-fiction)
