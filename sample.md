@@ -19,6 +19,8 @@ A curated list of highly recommended books across various genres and topics.
 3. **The Great Gatsby** by F. Scott Fitzgerald
    - *A classic tale of wealth, love, and the American dream.*
 
+[🔝 Go to Top](#-best-books-to-read)
+
 ## Non-Fiction
 1. **Sapiens: A Brief History of Humankind** by Yuval Noah Harari
    - *A deep dive into the history of the human species.*
@@ -26,6 +28,8 @@ A curated list of highly recommended books across various genres and topics.
    - *A memoir about the transformative power of education.*
 3. **The Immortal Life of Henrietta Lacks** by Rebecca Skloot
    - *A fascinating blend of scientific discovery and personal history.*
+
+[🔝 Go to Top](#-best-books-to-read)
 
 ## Self-Help
 1. **Atomic Habits** by James Clear
@@ -35,6 +39,8 @@ A curated list of highly recommended books across various genres and topics.
 3. **The 7 Habits of Highly Effective People** by Stephen R. Covey
    - *Strategies for personal and professional success.*
 
+[🔝 Go to Top](#-best-books-to-read)
+
 ## Technology
 1. **Clean Code** by Robert C. Martin
    - *A handbook for writing clean, maintainable code.*
@@ -42,6 +48,8 @@ A curated list of highly recommended books across various genres and topics.
    - *Tips and insights on software development practices.*
 3. **Introduction to Algorithms** by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
    - *An essential read for computer science enthusiasts.*
+
+[🔝 Go to Top](#-best-books-to-read)
 
 ## Biographies
 1. **Steve Jobs** by Walter Isaacson
@@ -51,5 +59,5 @@ A curated list of highly recommended books across various genres and topics.
 3. **Long Walk to Freedom** by Nelson Mandela
    - *The autobiography of South Africa's iconic leader.*
 
+[🔝 Go to Top](#-best-books-to-read)
 ---
-
