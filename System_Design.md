@@ -31,3 +31,7 @@
     - Writing UINX Device Drivers - George Pajari
     - Linux Kernel Module Programming Guide - Peter Salzman
     - Linux Device Drivers - Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman
+# Performance - Scalable - Internet
+    - High Performance Browser Networking: What Every Web Developer Should Know about Networking and Web Performance
+    - The CDNs: Concept, Architectures, and Applications by R. K. Ghosh
+    - Site Reliability Engineering by Niall Richard Murphy 
